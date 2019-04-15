@@ -85,21 +85,8 @@ img { border: none; }
 #pie {
   padding: .5em 0;
   margin-top: 1em;
-}
 
-#contenido #principal .articulo {
-  margin-bottom: 1em;
-}
-
-#contenido #principal .articulo img {
-  margin: .5em;
-}
-
-#lateral #publicidad {
-  margin-top: 1em;
-}
-
-/*body {
+body {
     margin: 0;
     padding: 0;
     background: #F2F5FE url("../imagenes/fondo.gif") 0 0 repeat-x;
@@ -148,4 +135,4 @@ img { border: none; }
   ul, ol {
     margin: 1em 0 1em 2em;
     padding:0;
-  }*/
+  }
