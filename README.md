@@ -118,6 +118,7 @@ ACTIVIDADES POR DESARROLLAR
 
 
 
+
  
 
 
@@ -133,6 +134,10 @@ ACTIVIDADES POR DESARROLLAR
 
 
 2.	Realizar un commit y push por cada requerimiento de los puntos antes descritos.
+![](imagenesReadme/Validacion1.png)
+![validacion2](imagenesReadme/Validacion2.png)
+![validacion3](imagenesReadme/Validacion3.png)
+![validacion4](imagenesReadme/Validacion4.png)
 
 
 
@@ -272,6 +277,7 @@ Bd-Queen.html
 
 a.	Diseño de dos columnas
 -	Estructura 
+![estructura](imagenesReadme/dosColumnasEstructura.png)
 
 
 
@@ -297,6 +303,8 @@ a.	Diseño de dos columnas
 
  
 -	Código 
+![codigo1](imagenesReadme/dosColumnasEstructura.png)
+![codigo2](imagenesReadme/dosColumnasCodigo2.png)
 
 
 
@@ -352,6 +360,7 @@ a.	Diseño de dos columnas
 
 b.	Diseño de tres columnas
 -	Estructura
+![estructura](imagenesReadme/tresColumnasEstructura.png)
 
 
 
@@ -381,6 +390,8 @@ b.	Diseño de tres columnas
 
  
 -	Código
+![codigo1](imagenesReadme/tresColumnasCodigo1.png)
+![codigo2](imagenesReadme/tresColumnasCodigo2.png)
 
 
 
@@ -420,6 +431,8 @@ b.	Diseño de tres columnas
 
 c.	Archivos externos de hojas de estilos
 -	Las páginas html llaman a un archivo externo de hoja de estilos CSS.
+![archivoexterno](imagenesReadme/archivosExternosdosColumns.png)
+![archivosexternos1](imagenesReadme/archivosExternosTresColumns.png)
 
 
 
@@ -433,7 +446,8 @@ c.	Archivos externos de hojas de estilos
 
  
 -	Todos los archivos CSS se encuentran organizados en una sola carpeta.
-
+![orrganizacioncarpeta](imagenesReadme/organizacionCarpeta1.png)
+![organizacioncarpeta2](imagenesReadme/organizacionCarpeta2.png)
 
 
 
@@ -458,7 +472,9 @@ c.	Archivos externos de hojas de estilos
 
 d.	Uso de selectores
 -	Etiqueta                                                                  -    De Clase
-                                                                                           
+                                                                                          
+![etiqueta](imagenesReadme/selectorEtiqueta.png)
+![clase](imagenesReadme/selectorClase.png)
 
 
 
@@ -476,6 +492,8 @@ d.	Uso de selectores
 
  
 -	Id                                                                            -    Descendiente
+![ID](imagenesReadme/selectorID.png)
+![descendiente](imagenesReadme/selectorDescendiente.png)
 
 
 
@@ -499,7 +517,7 @@ d.	Uso de selectores
 
 e.	Personalización de etiquetas
 -	A continuación se presenta la estructura utilizada donde se emplea desde h1 hasta h4.
-
+![personalizacion](imagenesReadme/personalizacionEtiquetas.png)
 
 
 
@@ -578,6 +596,6 @@ RECOMENDACIONES:
 
 
 Estudiante:   Evelyn Pintado Ch.
-Firma:  
+Firma:  ![firma](imagenesReadme/firma.png)
 
 
