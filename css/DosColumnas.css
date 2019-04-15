@@ -1,0 +1,11 @@
+#menu{
+    width: 25%;
+    float: left;
+}
+#contenedor{
+    width: 70%;
+    float: left;
+}
+#contenido iframe{
+    width: 100%;
+}
