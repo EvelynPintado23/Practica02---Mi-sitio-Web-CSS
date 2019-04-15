@@ -1,5 +1,3 @@
-/* ---- Estilos b�sicos ---------------------------------------------------- */
-
 body {
   margin: 0;
   padding: 0;
@@ -64,7 +62,6 @@ ul, ol {
   height: 100px;
   margin: 0;
   padding: 0;
-  background: #233C9B url("../imagenes/cabecera.jpg") no-repeat;
   color: #FFF;
 }
 
@@ -87,7 +84,6 @@ ul, ol {
   width: 200px;
   margin: 15px 0 0 0;
   padding: 0;
-  background: #CEDBF9 url("../imagenes/fondo_columna.gif") no-repeat;
 }
 
 #pie {
@@ -202,10 +198,6 @@ ul, ol {
   padding-left:15px;
 }
 
-#contenido .info span.fecha { background: url("../imagenes/icono_fecha.gif") 0 50% no-repeat; }
-#contenido .info span.categoria { background: url("../imagenes/icono_categoria.gif") 0 50% no-repeat; margin-left: 8px; }
-#contenido .info span.autor { background: url("../imagenes/icono_autor.gif") 0 50% no-repeat; margin-left: 8px; }
-#contenido .info span.comentarios { background: url("../imagenes/icono_comentarios.gif") 0 50% no-repeat; margin-left: 8px; }
 
 #contenido #secundario h3 {
   padding: 10px 0 10px 10px;
