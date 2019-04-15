@@ -46,7 +46,7 @@
   clear: both;
 }
 
-/*#menu{
+#menu{
     width: 25%;
     float: left;
 }
@@ -57,4 +57,41 @@
 #contenido iframe{
     width: 100%;
 }
-*/
+
+
+#contenedor {
+    width: 700px;
+  }
+  #cabecera {
+  }
+  #menu {
+    float: left;
+    width: 150px;
+  }
+  #contenido {
+    float: left;
+    width: 550px;
+  }
+  #pie {
+    clear: both;
+  }
+  
+  <body>
+  <div id="contenedor">
+    <div id="cabecera">
+    </div>
+  
+    <div id="menu">
+    </div>
+  
+    <div id="contenido">
+    </div>
+  
+    <div id="pie">
+    </div>
+  </div>
+  </body>
+
+
+
+
